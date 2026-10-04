@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2026-07-06
+---
+
 # 精编讲稿 · 信奥CSP-NOIP 一等高分需要的刷题量
 
 > 来源：B站 https://www.bilibili.com/video/BV1L6T96cEHb · 时长 14:20

@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2024-10-16
+---
+
 # 完整讲稿 · 信奥学习 如何当家长
 
 > 来源：B站 https://www.bilibili.com/video/BV1ZEmPYAEAv · 时长 26:41 · 本地 ASR 转录 + 标点恢复

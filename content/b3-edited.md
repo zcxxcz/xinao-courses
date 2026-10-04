@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2025-08-04
+---
+
 # 精编讲稿 · 信奥中的木桶效应
 
 > 来源：B站 https://www.bilibili.com/video/BV1P8tGzbETj · 时长 15:45

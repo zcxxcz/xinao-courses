@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2026-09-18
+---
+
 # 精编讲稿 · NOI金-银牌训练方法系列-AI辅助代码优化
 
 > 来源：B站 https://www.bilibili.com/video/BV1dAem6LEkX · 时长 15:17

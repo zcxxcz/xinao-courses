@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2025-11-05
+---
+
 # 精编讲稿 · 信奥题目难度的真实性
 
 > 来源：B站 https://www.bilibili.com/video/BV1ys1WBpEqy · 时长 09:42

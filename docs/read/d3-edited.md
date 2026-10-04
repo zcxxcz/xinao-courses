@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2024-12-26
+---
+
 # 精编讲稿 · 信奥学习工具分享
 
 > 来源：B站 https://www.bilibili.com/video/BV1eSCvYBEx5 · 时长 16:54

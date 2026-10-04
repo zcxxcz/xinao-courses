@@ -69,7 +69,9 @@ for r in records:
         if n+1<len(slides):adjacent.append(f'<a href="{slides[n+1]["id"]}.html"><small>下一讲</small>{slides[n+1]["code"]} · {esc(slides[n+1]["title"])}</a>')
         nextprev='<nav class="next-prev" aria-label="相邻课程">'+''.join(adjacent)+'</nav>'
         kicker=r['code']+' / '+groups[r['code'][0]]
-        info=f'{mainmeta.get("duration","")} · {mainmeta.get("slides",0)} 张画面'
+        published = meta.get('原视频发布时间') or mainmeta.get('原视频发布时间')
+        date_html = f'<time datetime="{esc(published)}">原视频发布于 {esc(published)}</time> · ' if published else ''
+        info=date_html+f'{mainmeta.get("duration","")} · {mainmeta.get("slides",0)} 张画面'
     else:
         kicker='课程索引' if home else '补充阅读';info=f'{manifest["courses"]} 讲 · 8 个主题 · 约 11 小时' if home else '课程归档资料'
     download=prefix+'read/'+r['id']+'.md'

@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2024-09-25
+---
+
 # 精编讲稿 · 小学生的信奥学习
 
 > 来源：B站 https://www.bilibili.com/video/BV1N1sqeNE9c · 时长 24:23

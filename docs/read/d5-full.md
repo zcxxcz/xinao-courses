@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2025-02-18
+---
+
 # 完整讲稿 · DeepSeek如何帮助信奥学习 实操演示
 
 > 来源：B站 https://www.bilibili.com/video/BV1eoAbeME5N · 时长 12:51 · 本地 ASR 转录 + 标点恢复

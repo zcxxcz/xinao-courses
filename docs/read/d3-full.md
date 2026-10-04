@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2024-12-26
+---
+
 # 完整讲稿 · 信奥学习工具分享
 
 > 来源：B站 https://www.bilibili.com/video/BV1eSCvYBEx5 · 时长 16:54 · 本地 ASR 转录 + 标点恢复

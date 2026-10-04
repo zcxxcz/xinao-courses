@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2025-06-30
+---
+
 # 完整讲稿 · 25年信奥 CSP／NOIP 分省市／组别／知识点 冲奖刷题规划
 
 > 来源：B站 https://www.bilibili.com/video/BV1a6g6zCEBY · 时长 08:47 · 本地 ASR 转录 + 标点恢复

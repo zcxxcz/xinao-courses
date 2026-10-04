@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2025-01-16
+---
+
 # 完整讲稿 · 信奥J+S／NOIP+省选+NOI 全知识点分享
 
 > 来源：B站 https://www.bilibili.com/video/BV1UNwgeTEYV · 时长 14:21 · 本地 ASR 转录 + 标点恢复

@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2025-06-05
+---
+
 # 精编讲稿 · 信奥CSP 根据自己情况做学习规划
 
 > 来源：B站 https://www.bilibili.com/video/BV11WTxz7EpL · 时长 13:50

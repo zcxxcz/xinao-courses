@@ -1,3 +1,7 @@
+---
+原视频发布时间: 2025-01-25
+---
+
 # 精编讲稿 · 优秀竞赛生能否当好信奥教练 CSP
 
 > 来源：B站 https://www.bilibili.com/video/BV19efdYPE5e · 时长 17:09
