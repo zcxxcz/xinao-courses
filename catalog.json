@@ -1,9 +1,9 @@
 {
-  "courses": 37,
-  "documents": 114,
-  "source_images": 483,
-  "image_source_bytes": 105021769,
-  "image_web_bytes": 76336092,
+  "courses": 38,
+  "documents": 117,
+  "source_images": 490,
+  "image_source_bytes": 106493467,
+  "image_web_bytes": 77505812,
   "records": [
     {
       "id": "index",
@@ -514,6 +514,30 @@
       "label": "完整讲稿",
       "code": "D6",
       "original_file": "NOI金-银牌训练方法系列-AI辅助代码优化_完整讲稿.md"
+    },
+    {
+      "id": "d7",
+      "title": "全网最强 信奥做题步骤 金银牌训练方法",
+      "kind": "slides",
+      "label": "PPT／讲稿对照",
+      "code": "D7",
+      "original_file": "全网最强 信奥做题步骤 金银牌训练方法_PPT讲稿对照.md"
+    },
+    {
+      "id": "d7-edited",
+      "title": "全网最强 信奥做题步骤 金银牌训练方法",
+      "kind": "edited",
+      "label": "精编讲稿",
+      "code": "D7",
+      "original_file": "全网最强 信奥做题步骤 金银牌训练方法_精编讲稿.md"
+    },
+    {
+      "id": "d7-full",
+      "title": "全网最强 信奥做题步骤 金银牌训练方法",
+      "kind": "full",
+      "label": "完整讲稿",
+      "code": "D7",
+      "original_file": "全网最强 信奥做题步骤 金银牌训练方法_完整讲稿.md"
     },
     {
       "id": "e1",
@@ -2080,6 +2104,41 @@
     },
     "a774fa55ab431c3bf2d81c66.webp": {
       "name": "a774fa55ab431c3bf2d81c66.webp",
+      "width": 852,
+      "height": 480
+    },
+    "479335728647f8e2887794f7.webp": {
+      "name": "479335728647f8e2887794f7.webp",
+      "width": 852,
+      "height": 480
+    },
+    "fc7c52c944dad1edc06f2007.webp": {
+      "name": "fc7c52c944dad1edc06f2007.webp",
+      "width": 852,
+      "height": 480
+    },
+    "77c18e898751386b4eb421fa.webp": {
+      "name": "77c18e898751386b4eb421fa.webp",
+      "width": 852,
+      "height": 480
+    },
+    "bfd331a27d860b97d4a70753.webp": {
+      "name": "bfd331a27d860b97d4a70753.webp",
+      "width": 852,
+      "height": 480
+    },
+    "27ab64f54cfb54f96418ad60.webp": {
+      "name": "27ab64f54cfb54f96418ad60.webp",
+      "width": 852,
+      "height": 480
+    },
+    "768a6ae1e6f2a579b035d4de.webp": {
+      "name": "768a6ae1e6f2a579b035d4de.webp",
+      "width": 852,
+      "height": 480
+    },
+    "8f6eeb6db7f0cbf4457a6264.webp": {
+      "name": "8f6eeb6db7f0cbf4457a6264.webp",
       "width": 852,
       "height": 480
     },

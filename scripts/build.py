@@ -71,13 +71,13 @@ for r in records:
         kicker=r['code']+' / '+groups[r['code'][0]]
         info=f'{mainmeta.get("duration","")} · {mainmeta.get("slides",0)} 张画面'
     else:
-        kicker='课程索引' if home else '补充阅读';info='37 讲 · 8 个主题 · 约 11 小时' if home else '课程归档资料'
+        kicker='课程索引' if home else '补充阅读';info=f'{manifest["courses"]} 讲 · 8 个主题 · 约 11 小时' if home else '课程归档资料'
     download=prefix+'read/'+r['id']+'.md'
     (OUT/'read'/(r['id']+'.md')).write_text(raw)
     # Downloaded markdown has sibling markdown links; assets use the shared ../assets path.
     toc=md.toc
     doc=f'''<!doctype html>
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="信奥课程阅读库：37讲课程的索引、PPT画面与讲稿，按主题系统阅读。"><title>{esc(r['title'])} · 信奥课程阅读库</title><link rel="icon" type="image/svg+xml" href="{prefix}assets/favicon.svg"><link rel="stylesheet" href="{prefix}assets/style.css"><script defer src="{prefix}assets/app.js"></script></head>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="信奥课程阅读库：{manifest["courses"]}讲课程的索引、PPT画面与讲稿，按主题系统阅读。"><title>{esc(r['title'])} · 信奥课程阅读库</title><link rel="icon" type="image/svg+xml" href="{prefix}assets/favicon.svg"><link rel="stylesheet" href="{prefix}assets/style.css"><script defer src="{prefix}assets/app.js"></script></head>
 <body><a class="skip" href="#main">跳到正文</a><header class="topbar"><a class="brand" href="{prefix}index.html"><span class="brand-icon">OI</span><span>信奥课程阅读库</span></a><span class="top-caption">规划 · 训练 · 教学</span><button class="menu-button" aria-controls="navigation" aria-expanded="false">课程目录</button></header>
 <div class="layout"><aside id="navigation" class="sidebar" aria-label="课程导航"><label class="search-label" for="course-search">查找课程</label><input id="course-search" type="search" placeholder="输入题目、家长、检查…" autocomplete="off"><p class="search-status" role="status" aria-live="polite"></p><nav>{nav(r['id'],prefix)}</nav><p class="sidebar-foot">按学习主题阅读 · 保留原讲稿</p></aside>
 <main id="main"><header class="article-head"><p class="eyebrow">{esc(kicker)}</p><h1>{esc(r['title'])}</h1><div class="metadata"><span>{info}</span>{source}<a href="{download}" download>下载 Markdown</a></div></header>{tabs}<details class="page-toc"><summary>本页目录</summary>{toc}</details><article class="prose">{soup}</article>{nextprev}<footer class="footer">内容来自原课程及本地整理，观点与日期以原材料为准。<a href="{prefix}index.html">返回总索引</a><a href="#main">回到顶部</a></footer></main></div></body></html>'''

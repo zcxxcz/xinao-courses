@@ -12,7 +12,7 @@ root = args.source.resolve()
 index = root/'信奥课程总索引与阅读指南.md'
 text = index.read_text()
 courses = re.findall(r'^#### ([A-H]\d+)｜(.+)$', text, re.M)
-assert len(courses)==37, 'Review index structure before importing a changed catalog'
+assert courses and len({code for code, _ in courses}) == len(courses), 'Index requires unique course IDs'
 records = [{'id':'index','title':'信奥课程总索引与阅读指南','kind':'index','source':index}]
 for code,title in courses:
     folder=root/title
@@ -41,7 +41,8 @@ for r in records:
             if local not in image_map:
                 name=hashlib.sha256(local.read_bytes()).hexdigest()[:24]+'.webp'
                 with Image.open(local) as im:
-                    im.save(images/name,'WEBP',lossless=True,method=6)
+                    if not (images/name).exists():
+                        im.save(images/name,'WEBP',lossless=True,method=6)
                     image_map[local]={'name':name,'width':im.width,'height':im.height}
                 source_bytes+=local.stat().st_size
             return f'![{label}](../assets/images/{image_map[local]["name"]})'
@@ -51,6 +52,6 @@ for r in records:
     assert '/Users/' not in s, f'Local path remains in {r["id"]}'
     (content/(r['id']+'.md')).write_text(s)
     r['original_file']=r.pop('source').name
-manifest={'courses':37,'documents':len(records),'source_images':len(image_map),'image_source_bytes':source_bytes,'image_web_bytes':sum(x.stat().st_size for x in images.glob('*.webp')),'records':records,'images':{v['name']:v for v in image_map.values()}}
+manifest={'courses':len(courses),'documents':len(records),'source_images':len(image_map),'image_source_bytes':source_bytes,'image_web_bytes':sum(x.stat().st_size for x in images.glob('*.webp')),'records':records,'images':{v['name']:v for v in image_map.values()}}
 (PROJECT/'catalog.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
 print(json.dumps({k:v for k,v in manifest.items() if k not in ('records','images')},ensure_ascii=False))
