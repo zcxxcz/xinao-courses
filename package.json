@@ -1,0 +1,7 @@
+{
+  "name": "xinao-courses",
+  "private": true,
+  "scripts": {
+    "publish": "node scripts/publish.mjs"
+  }
+}

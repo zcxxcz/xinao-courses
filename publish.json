@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "catalog": "https://zcxxcz.github.io/xinao-courses/catalog.json",
+  "records": [
+    {
+      "id": "xinao-courses",
+      "title": "信奥课程阅读库",
+      "type": "课程",
+      "summary": "38 讲课程，涵盖学习规划、日常训练、比赛得分与家长支持。",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/",
+      "updated": "2026-10-07",
+      "featured": true,
+      "textPaths": [
+        "docs/index.html"
+      ]
+    },
+    {
+      "id": "xinao-a1",
+      "title": "浅淡当一名信息学竞赛生与信奥生的意义",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/a1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/a1.html",
+        "docs/read/a1-edited.html",
+        "docs/read/a1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-a2",
+      "title": "信奥赛与数学（家长的3大误区）",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/a2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/a2.html",
+        "docs/read/a2-edited.html",
+        "docs/read/a2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-a3",
+      "title": "小学生的信奥学习",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/a3.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/a3.html",
+        "docs/read/a3-edited.html",
+        "docs/read/a3-full.html"
+      ]
+    },
+    {
+      "id": "xinao-a4",
+      "title": "如何成为优秀信奥竞赛生（上篇：外界因素）",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/a4.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/a4.html",
+        "docs/read/a4-edited.html",
+        "docs/read/a4-full.html"
+      ]
+    },
+    {
+      "id": "xinao-a5",
+      "title": "如何成为优秀信奥竞赛生（下篇：内在因素）",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/a5.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/a5.html",
+        "docs/read/a5-edited.html",
+        "docs/read/a5-full.html"
+      ]
+    },
+    {
+      "id": "xinao-b1",
+      "title": "信奥赛一等线的真实水准",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/b1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/b1.html",
+        "docs/read/b1-edited.html",
+        "docs/read/b1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-b2",
+      "title": "信奥题目难度的真实性",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/b2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/b2.html",
+        "docs/read/b2-edited.html",
+        "docs/read/b2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-b3",
+      "title": "信奥中的木桶效应",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/b3.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/b3.html",
+        "docs/read/b3-edited.html",
+        "docs/read/b3-full.html"
+      ]
+    },
+    {
+      "id": "xinao-b4",
+      "title": "全网最全-信奥学习规划",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/b4.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/b4.html",
+        "docs/read/b4-edited.html",
+        "docs/read/b4-full.html"
+      ]
+    },
+    {
+      "id": "xinao-b5",
+      "title": "信奥CSP 根据自己情况做学习规划",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/b5.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/b5.html",
+        "docs/read/b5-edited.html",
+        "docs/read/b5-full.html"
+      ]
+    },
+    {
+      "id": "xinao-b6",
+      "title": "25年信奥 CSP／NOIP 分省市／组别／知识点 冲奖刷题规划",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/b6.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/b6.html",
+        "docs/read/b6-edited.html",
+        "docs/read/b6-full.html"
+      ]
+    },
+    {
+      "id": "xinao-b7",
+      "title": "信奥CSP-NOIP 一等高分需要的刷题量",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/b7.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/b7.html",
+        "docs/read/b7-edited.html",
+        "docs/read/b7-full.html"
+      ]
+    },
+    {
+      "id": "xinao-c1",
+      "title": "信奥J+S／NOIP+省选+NOI 全知识点分享",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/c1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/c1.html",
+        "docs/read/c1-edited.html",
+        "docs/read/c1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-c2",
+      "title": "全网最全CSP-S 知识点与题单总结",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/c2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/c2.html",
+        "docs/read/c2-edited.html",
+        "docs/read/c2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-c3",
+      "title": "信奥赛 NOIP+省选阶段 题型总结",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/c3.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/c3.html",
+        "docs/read/c3-edited.html",
+        "docs/read/c3-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d1",
+      "title": "信奥赛稳定全省前百的训练方法 CSP",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d1.html",
+        "docs/read/d1-edited.html",
+        "docs/read/d1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d2",
+      "title": "NOI金、银牌训练方法系列-日常做题如何记录和总结",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d2.html",
+        "docs/read/d2-edited.html",
+        "docs/read/d2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d3",
+      "title": "信奥学习工具分享",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d3.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d3.html",
+        "docs/read/d3-edited.html",
+        "docs/read/d3-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d4",
+      "title": "信奥生最容易忽略的能力培养",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d4.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d4.html",
+        "docs/read/d4-edited.html",
+        "docs/read/d4-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d5",
+      "title": "DeepSeek如何帮助信奥学习 实操演示",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d5.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d5.html",
+        "docs/read/d5-edited.html",
+        "docs/read/d5-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d6",
+      "title": "NOI金-银牌训练方法系列-AI辅助代码优化",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d6.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d6.html",
+        "docs/read/d6-edited.html",
+        "docs/read/d6-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d7",
+      "title": "全网最强 信奥做题步骤 金银牌训练方法",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d7.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d7.html",
+        "docs/read/d7-edited.html",
+        "docs/read/d7-full.html"
+      ]
+    },
+    {
+      "id": "xinao-e1",
+      "title": "CSP信奥赛复赛提分-如何检查",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/e1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/e1.html",
+        "docs/read/e1-edited.html",
+        "docs/read/e1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-e2",
+      "title": "信奥竞赛生的做题检查流程",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/e2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/e2.html",
+        "docs/read/e2-edited.html",
+        "docs/read/e2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-e3",
+      "title": "稳定J-S-NOIP省一的训练方法（打暴力分）",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/e3.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/e3.html",
+        "docs/read/e3-edited.html",
+        "docs/read/e3-full.html"
+      ]
+    },
+    {
+      "id": "xinao-e4",
+      "title": "信奥生应该如何正确打模拟赛",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/e4.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/e4.html",
+        "docs/read/e4-edited.html",
+        "docs/read/e4-full.html"
+      ]
+    },
+    {
+      "id": "xinao-f1",
+      "title": "信奥教练的真正价值",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/f1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/f1.html",
+        "docs/read/f1-edited.html",
+        "docs/read/f1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-f2",
+      "title": "优秀竞赛生能否当好信奥教练 CSP",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/f2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/f2.html",
+        "docs/read/f2-edited.html",
+        "docs/read/f2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-f3",
+      "title": "对CSP信奥赛各种上课方式的分析",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/f3.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/f3.html",
+        "docs/read/f3-edited.html",
+        "docs/read/f3-full.html"
+      ]
+    },
+    {
+      "id": "xinao-f4",
+      "title": "让学生信奥成绩优异的上课方法分享",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/f4.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/f4.html",
+        "docs/read/f4-edited.html",
+        "docs/read/f4-full.html"
+      ]
+    },
+    {
+      "id": "xinao-f5",
+      "title": "信奥教学 常见问题分享",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/f5.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/f5.html",
+        "docs/read/f5-edited.html",
+        "docs/read/f5-full.html"
+      ]
+    },
+    {
+      "id": "xinao-f6",
+      "title": "25年信奥教学经验分享",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/f6.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/f6.html",
+        "docs/read/f6-edited.html",
+        "docs/read/f6-full.html"
+      ]
+    },
+    {
+      "id": "xinao-g1",
+      "title": "信奥学习 如何当家长",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/g1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/g1.html",
+        "docs/read/g1-edited.html",
+        "docs/read/g1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-g2",
+      "title": "信奥学习中 家长对学生的影响 8对案例分享",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/g2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/g2.html",
+        "docs/read/g2-edited.html",
+        "docs/read/g2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-g3",
+      "title": "信奥学习中的抄袭行为",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/g3.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/g3.html",
+        "docs/read/g3-edited.html",
+        "docs/read/g3-full.html"
+      ]
+    },
+    {
+      "id": "xinao-g4",
+      "title": "信奥教练答粉丝留言（纯干货）",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/g4.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/g4.html",
+        "docs/read/g4-edited.html",
+        "docs/read/g4-full.html"
+      ]
+    },
+    {
+      "id": "xinao-h1",
+      "title": "信奥比赛出题到底发生了什么改变？",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/h1.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/h1.html",
+        "docs/read/h1-edited.html",
+        "docs/read/h1-full.html"
+      ]
+    },
+    {
+      "id": "xinao-h2",
+      "title": "从26省选 看未来信奥是否会出现新题型",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/h2.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/h2.html",
+        "docs/read/h2-edited.html",
+        "docs/read/h2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-seven-lectures",
+      "title": "信奥训练方法七讲合辑 · 总结",
+      "type": "资料",
+      "summary": "课程补充阅读 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/seven-lectures.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/seven-lectures.html"
+      ]
+    },
+    {
+      "id": "xinao-archive-list",
+      "title": "FayeTY 视频归档与待下载清单",
+      "type": "资料",
+      "summary": "课程补充阅读 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/archive-list.html",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "docs/read/archive-list.html"
+      ]
+    }
+  ]
+}
