@@ -15,20 +15,14 @@
 - `scripts/build.py`：生成 `docs/` 并检查本地链接、图片与页内锚点。
 - `docs/`：GitHub Pages 发布目录，纯静态文件，无运行时依赖、统计或第三方字体。
 
-## 更新与发布
+## 本地预览
 
-```sh
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
-# 如果要从知识库同步，传入自己的 raw/courses 目录：
-.venv/bin/python scripts/import_courses.py /path/to/raw/courses
-.venv/bin/python scripts/build.py
-# 检查结果后提交并推送；GitHub Pages 从 main 分支的 /docs 自动发布。
-git add content site-assets catalog.json docs validation.json
-git commit -m "Update course library"
-git push
-```
+可直接修改 `content/`。可选本地验证：安装 requirements.txt 后运行 `python scripts/build.py`；预览使用 `python -m http.server 8765 --directory docs`。正式发布由云端构建 docs，不需要提交本地产物。导入课程时运行 `python scripts/import_courses.py /path/to/raw/courses`，不要上传整个个人知识库。
 
-也可以直接修改 `content/` 后运行构建。导入器按索引中的课程编号自动识别课程，新增时需保持编号唯一及三种讲稿齐备。不要上传整个个人知识库。
+## 统一发布与内容索引
 
-本地预览：`python3 -m http.server 8765 --directory docs`。
+总入口：https://zcxxcz.github.io/ 。本项目通过公开 `catalog.json` 接入全文搜索。`publish.json` 显式列出公开内容，不包含账号数据。
+
+Windows/macOS 均安装 Node.js 24、Git 与 GitHub CLI，先 `gh auth login`。使用独立任务分支，提交本任务文件后运行 `npm run publish`：创建 PR → 等待 Publish Pages 检查 → 自动合并 → GitHub Actions 构建发布 → 自动刷新总索引。工作区必须干净；main 更新时先合并最新 main 并解决冲突。不需要本地运行 gh-pages。
+
+Pages Source 使用 GitHub Actions，正式产物只由云端构建。直接推送 main 后，总索引由每日补漏任务更新；需要立即更新则运行 `node scripts/publish.mjs --refresh-only`。不自动执行数据库迁移。新增或修改公开内容时同步 publish.json 的元信息和 textPaths；不得将私人文件加入索引。
