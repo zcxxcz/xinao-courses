@@ -20,9 +20,8 @@ for code,title in courses:
         source=next(folder.glob(f'*_{suffix}.md'))
         slug=code.lower()+('' if kind=='slides' else '-'+kind)
         records.append(dict(id=slug,title=title,kind=kind,label=label,code=code,source=source))
-records.extend([
-    dict(id='seven-lectures',title='信奥训练方法七讲合辑 · 总结',kind='supplement',source=root/'信奥训练方法七讲合辑_总结.md'),
-    dict(id='archive-list',title='FayeTY 视频归档与待下载清单',kind='supplement',source=root/'FayeTY_待下载视频清单.md')])
+records.append(
+    dict(id='archive-list',title='FayeTY 视频归档与待下载清单',kind='supplement',source=root/'FayeTY_待下载视频清单.md'))
 source_map={r['source'].resolve():r['id'] for r in records}
 content=PROJECT/'content'; content.mkdir(exist_ok=True)
 images=PROJECT/'site-assets'/'images'; images.mkdir(parents=True,exist_ok=True)

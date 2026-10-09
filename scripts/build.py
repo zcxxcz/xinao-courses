@@ -27,7 +27,7 @@ def nav(current,prefix):
         items=[r for r in records if r.get('code','').startswith(code) and r['kind']=='slides']
         links=''.join(f'<a {"aria-current=page" if current.split("-")[0]==r["id"] else ""} href="{prefix}{page_path(r["id"])}"><span>{r["code"]}</span>{esc(r["title"])}</a>' for r in items)
         output.append(f'<details {"open" if current=="index" or current.upper().startswith(code) else ""}><summary>{code} · {name}<small>{len(items)}</small></summary><div class="nav-items">{links}</div></details>')
-    output.append(f'<div class="supplements"><a href="{prefix}read/seven-lectures.html">七讲合辑总结</a><a href="{prefix}read/archive-list.html">归档与待下载清单</a></div>')
+    output.append(f'<div class="supplements"><a href="{prefix}read/archive-list.html">归档与待下载清单</a></div>')
     return ''.join(output)
 
 for r in records:
