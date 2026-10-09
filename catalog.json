@@ -1,6 +1,6 @@
 {
   "courses": 38,
-  "documents": 117,
+  "documents": 116,
   "source_images": 490,
   "image_source_bytes": 106493467,
   "image_web_bytes": 77505812,
@@ -922,12 +922,6 @@
       "label": "完整讲稿",
       "code": "H2",
       "original_file": "从26省选 看未来信奥是否会出现新题型_完整讲稿.md"
-    },
-    {
-      "id": "seven-lectures",
-      "title": "信奥训练方法七讲合辑 · 总结",
-      "kind": "supplement",
-      "original_file": "信奥训练方法七讲合辑_总结.md"
     },
     {
       "id": "archive-list",

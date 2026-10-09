@@ -664,21 +664,6 @@
       ]
     },
     {
-      "id": "xinao-seven-lectures",
-      "title": "信奥训练方法七讲合辑 · 总结",
-      "type": "资料",
-      "summary": "课程补充阅读 · 信奥课程阅读库",
-      "tags": [
-        "信奥"
-      ],
-      "url": "https://zcxxcz.github.io/xinao-courses/read/seven-lectures.html",
-      "updated": "2026-10-07",
-      "featured": false,
-      "textPaths": [
-        "docs/read/seven-lectures.html"
-      ]
-    },
-    {
       "id": "xinao-archive-list",
       "title": "FayeTY 视频归档与待下载清单",
       "type": "资料",
