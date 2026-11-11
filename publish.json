@@ -6,7 +6,7 @@
       "id": "xinao-courses",
       "title": "信奥课程阅读库",
       "type": "课程",
-      "summary": "38 讲课程，涵盖学习规划、日常训练、比赛得分与家长支持。",
+      "summary": "41 讲课程，涵盖学习规划、日常训练、比赛得分与家长支持。",
       "tags": [
         "信奥"
       ],
@@ -273,6 +273,23 @@
       ]
     },
     {
+      "id": "xinao-c4",
+      "title": "信奥知识点大全 汇总表 CSP-J／S+NOIP+省选+NOI",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/c4.html",
+      "updated": "2026-11-11",
+      "featured": false,
+      "textPaths": [
+        "docs/read/c4.html",
+        "docs/read/c4-edited.html",
+        "docs/read/c4-full.html"
+      ]
+    },
+    {
       "id": "xinao-d1",
       "title": "信奥赛稳定全省前百的训练方法 CSP",
       "type": "课程",
@@ -389,6 +406,23 @@
         "docs/read/d7.html",
         "docs/read/d7-edited.html",
         "docs/read/d7-full.html"
+      ]
+    },
+    {
+      "id": "xinao-d8",
+      "title": "NOI金／银牌训练方法系列-刷信奥题如何举一反三",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/d8.html",
+      "updated": "2026-11-11",
+      "featured": false,
+      "textPaths": [
+        "docs/read/d8.html",
+        "docs/read/d8-edited.html",
+        "docs/read/d8-full.html"
       ]
     },
     {
@@ -661,6 +695,23 @@
         "docs/read/h2.html",
         "docs/read/h2-edited.html",
         "docs/read/h2-full.html"
+      ]
+    },
+    {
+      "id": "xinao-h3",
+      "title": "26信奥CSP初赛风格解析 复赛风格预测 GESP免考J还是S",
+      "type": "课程",
+      "summary": "PPT／讲稿对照 · 信奥课程阅读库",
+      "tags": [
+        "信奥"
+      ],
+      "url": "https://zcxxcz.github.io/xinao-courses/read/h3.html",
+      "updated": "2026-11-11",
+      "featured": false,
+      "textPaths": [
+        "docs/read/h3.html",
+        "docs/read/h3-edited.html",
+        "docs/read/h3-full.html"
       ]
     },
     {

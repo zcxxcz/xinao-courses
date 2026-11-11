@@ -1,9 +1,9 @@
 {
-  "courses": 38,
-  "documents": 116,
-  "source_images": 490,
-  "image_source_bytes": 106493467,
-  "image_web_bytes": 77505812,
+  "courses": 41,
+  "documents": 125,
+  "source_images": 537,
+  "image_source_bytes": 113863805,
+  "image_web_bytes": 82487908,
   "records": [
     {
       "id": "index",
@@ -372,6 +372,30 @@
       "original_file": "信奥赛 NOIP+省选阶段 题型总结_完整讲稿.md"
     },
     {
+      "id": "c4",
+      "title": "信奥知识点大全 汇总表 CSP-J／S+NOIP+省选+NOI",
+      "kind": "slides",
+      "label": "PPT／讲稿对照",
+      "code": "C4",
+      "original_file": "信奥知识点大全 汇总表 CSP-J／S+NOIP+省选+NOI_PPT讲稿对照.md"
+    },
+    {
+      "id": "c4-edited",
+      "title": "信奥知识点大全 汇总表 CSP-J／S+NOIP+省选+NOI",
+      "kind": "edited",
+      "label": "精编讲稿",
+      "code": "C4",
+      "original_file": "信奥知识点大全 汇总表 CSP-J／S+NOIP+省选+NOI_精编讲稿.md"
+    },
+    {
+      "id": "c4-full",
+      "title": "信奥知识点大全 汇总表 CSP-J／S+NOIP+省选+NOI",
+      "kind": "full",
+      "label": "完整讲稿",
+      "code": "C4",
+      "original_file": "信奥知识点大全 汇总表 CSP-J／S+NOIP+省选+NOI_完整讲稿.md"
+    },
+    {
       "id": "d1",
       "title": "信奥赛稳定全省前百的训练方法 CSP",
       "kind": "slides",
@@ -538,6 +562,30 @@
       "label": "完整讲稿",
       "code": "D7",
       "original_file": "全网最强 信奥做题步骤 金银牌训练方法_完整讲稿.md"
+    },
+    {
+      "id": "d8",
+      "title": "NOI金／银牌训练方法系列-刷信奥题如何举一反三",
+      "kind": "slides",
+      "label": "PPT／讲稿对照",
+      "code": "D8",
+      "original_file": "NOI金／银牌训练方法系列-刷信奥题如何举一反三_PPT讲稿对照.md"
+    },
+    {
+      "id": "d8-edited",
+      "title": "NOI金／银牌训练方法系列-刷信奥题如何举一反三",
+      "kind": "edited",
+      "label": "精编讲稿",
+      "code": "D8",
+      "original_file": "NOI金／银牌训练方法系列-刷信奥题如何举一反三_精编讲稿.md"
+    },
+    {
+      "id": "d8-full",
+      "title": "NOI金／银牌训练方法系列-刷信奥题如何举一反三",
+      "kind": "full",
+      "label": "完整讲稿",
+      "code": "D8",
+      "original_file": "NOI金／银牌训练方法系列-刷信奥题如何举一反三_完整讲稿.md"
     },
     {
       "id": "e1",
@@ -922,6 +970,30 @@
       "label": "完整讲稿",
       "code": "H2",
       "original_file": "从26省选 看未来信奥是否会出现新题型_完整讲稿.md"
+    },
+    {
+      "id": "h3",
+      "title": "26信奥CSP初赛风格解析 复赛风格预测 GESP免考J还是S",
+      "kind": "slides",
+      "label": "PPT／讲稿对照",
+      "code": "H3",
+      "original_file": "26信奥CSP初赛风格解析 复赛风格预测 GESP免考J还是S_PPT讲稿对照.md"
+    },
+    {
+      "id": "h3-edited",
+      "title": "26信奥CSP初赛风格解析 复赛风格预测 GESP免考J还是S",
+      "kind": "edited",
+      "label": "精编讲稿",
+      "code": "H3",
+      "original_file": "26信奥CSP初赛风格解析 复赛风格预测 GESP免考J还是S_精编讲稿.md"
+    },
+    {
+      "id": "h3-full",
+      "title": "26信奥CSP初赛风格解析 复赛风格预测 GESP免考J还是S",
+      "kind": "full",
+      "label": "完整讲稿",
+      "code": "H3",
+      "original_file": "26信奥CSP初赛风格解析 复赛风格预测 GESP免考J还是S_完整讲稿.md"
     },
     {
       "id": "archive-list",
@@ -1626,6 +1698,126 @@
       "width": 852,
       "height": 480
     },
+    "29651124bcef633849e33937.webp": {
+      "name": "29651124bcef633849e33937.webp",
+      "width": 852,
+      "height": 480
+    },
+    "9b02b917a1bca1d8d7798e06.webp": {
+      "name": "9b02b917a1bca1d8d7798e06.webp",
+      "width": 852,
+      "height": 480
+    },
+    "f0ea63a3350c47f78deb4c66.webp": {
+      "name": "f0ea63a3350c47f78deb4c66.webp",
+      "width": 852,
+      "height": 480
+    },
+    "4e79ace8c02508f2cfb1e7ac.webp": {
+      "name": "4e79ace8c02508f2cfb1e7ac.webp",
+      "width": 852,
+      "height": 480
+    },
+    "4d03f0f89adba4636e6f1cdd.webp": {
+      "name": "4d03f0f89adba4636e6f1cdd.webp",
+      "width": 852,
+      "height": 480
+    },
+    "9548a62f0a34c4d8fb9a07c7.webp": {
+      "name": "9548a62f0a34c4d8fb9a07c7.webp",
+      "width": 852,
+      "height": 480
+    },
+    "adc78845992694dfa7f7ecf7.webp": {
+      "name": "adc78845992694dfa7f7ecf7.webp",
+      "width": 852,
+      "height": 480
+    },
+    "670f97f49b51dbcc0358c79d.webp": {
+      "name": "670f97f49b51dbcc0358c79d.webp",
+      "width": 852,
+      "height": 480
+    },
+    "f7bc8a2fd14941ee6dab0792.webp": {
+      "name": "f7bc8a2fd14941ee6dab0792.webp",
+      "width": 852,
+      "height": 480
+    },
+    "eb6fa6c30552351c3171670f.webp": {
+      "name": "eb6fa6c30552351c3171670f.webp",
+      "width": 852,
+      "height": 480
+    },
+    "0b04bbfb80cb9af0d9d2171a.webp": {
+      "name": "0b04bbfb80cb9af0d9d2171a.webp",
+      "width": 852,
+      "height": 480
+    },
+    "a89d9ff641b47d2282f03f8f.webp": {
+      "name": "a89d9ff641b47d2282f03f8f.webp",
+      "width": 852,
+      "height": 480
+    },
+    "fd24f10bdf5a62931a8af2d6.webp": {
+      "name": "fd24f10bdf5a62931a8af2d6.webp",
+      "width": 852,
+      "height": 480
+    },
+    "7cce75c48373329c09ea6218.webp": {
+      "name": "7cce75c48373329c09ea6218.webp",
+      "width": 852,
+      "height": 480
+    },
+    "32891dda5eb6586f9109b77e.webp": {
+      "name": "32891dda5eb6586f9109b77e.webp",
+      "width": 852,
+      "height": 480
+    },
+    "44a89b051cb4b9f9f2a1e280.webp": {
+      "name": "44a89b051cb4b9f9f2a1e280.webp",
+      "width": 852,
+      "height": 480
+    },
+    "9cf6046415a19a0faedb9469.webp": {
+      "name": "9cf6046415a19a0faedb9469.webp",
+      "width": 852,
+      "height": 480
+    },
+    "98114a42028ee34cc75fe50e.webp": {
+      "name": "98114a42028ee34cc75fe50e.webp",
+      "width": 852,
+      "height": 480
+    },
+    "b61c20fe0a3995caf61c8adf.webp": {
+      "name": "b61c20fe0a3995caf61c8adf.webp",
+      "width": 852,
+      "height": 480
+    },
+    "30e4f93f0332290bfd68b06d.webp": {
+      "name": "30e4f93f0332290bfd68b06d.webp",
+      "width": 852,
+      "height": 480
+    },
+    "df8c2a4ac1faa19d389615c6.webp": {
+      "name": "df8c2a4ac1faa19d389615c6.webp",
+      "width": 852,
+      "height": 480
+    },
+    "46fcebebb19b20eef792f72c.webp": {
+      "name": "46fcebebb19b20eef792f72c.webp",
+      "width": 852,
+      "height": 480
+    },
+    "b0d226741c5fdcf5b6522695.webp": {
+      "name": "b0d226741c5fdcf5b6522695.webp",
+      "width": 852,
+      "height": 480
+    },
+    "a197aaddbb0ab962de880c03.webp": {
+      "name": "a197aaddbb0ab962de880c03.webp",
+      "width": 852,
+      "height": 480
+    },
     "70b93e4505924d5ff1b66020.webp": {
       "name": "70b93e4505924d5ff1b66020.webp",
       "width": 852,
@@ -2135,6 +2327,81 @@
       "name": "8f6eeb6db7f0cbf4457a6264.webp",
       "width": 852,
       "height": 480
+    },
+    "3452dd4443129d745a64a364.webp": {
+      "name": "3452dd4443129d745a64a364.webp",
+      "width": 64,
+      "height": 36
+    },
+    "fc883b6cff6124d00e4f41ce.webp": {
+      "name": "fc883b6cff6124d00e4f41ce.webp",
+      "width": 64,
+      "height": 36
+    },
+    "5fbfadbfecda329e8663234e.webp": {
+      "name": "5fbfadbfecda329e8663234e.webp",
+      "width": 64,
+      "height": 36
+    },
+    "9ab0067d6352382356f55d4e.webp": {
+      "name": "9ab0067d6352382356f55d4e.webp",
+      "width": 64,
+      "height": 36
+    },
+    "9c19a4319ab508d57314e763.webp": {
+      "name": "9c19a4319ab508d57314e763.webp",
+      "width": 64,
+      "height": 36
+    },
+    "b821a72b250c1300ca54f758.webp": {
+      "name": "b821a72b250c1300ca54f758.webp",
+      "width": 64,
+      "height": 36
+    },
+    "1d8f8b5f1f3746b9c460b881.webp": {
+      "name": "1d8f8b5f1f3746b9c460b881.webp",
+      "width": 64,
+      "height": 36
+    },
+    "f96f092c5ac00dcc2ae1602d.webp": {
+      "name": "f96f092c5ac00dcc2ae1602d.webp",
+      "width": 64,
+      "height": 36
+    },
+    "d33a8e8e21e6a5aaf014fe54.webp": {
+      "name": "d33a8e8e21e6a5aaf014fe54.webp",
+      "width": 64,
+      "height": 36
+    },
+    "598b2b6cfee9bd166c7d4cc9.webp": {
+      "name": "598b2b6cfee9bd166c7d4cc9.webp",
+      "width": 64,
+      "height": 36
+    },
+    "5689f63f633d9b3abaec6f51.webp": {
+      "name": "5689f63f633d9b3abaec6f51.webp",
+      "width": 64,
+      "height": 36
+    },
+    "dcc9707ad3b8f6f9ed083bf6.webp": {
+      "name": "dcc9707ad3b8f6f9ed083bf6.webp",
+      "width": 64,
+      "height": 36
+    },
+    "a6751cc6196a07725fe42833.webp": {
+      "name": "a6751cc6196a07725fe42833.webp",
+      "width": 64,
+      "height": 36
+    },
+    "adb1c9b45c81574b54c1c282.webp": {
+      "name": "adb1c9b45c81574b54c1c282.webp",
+      "width": 64,
+      "height": 36
+    },
+    "87a4334c3430687af9d34596.webp": {
+      "name": "87a4334c3430687af9d34596.webp",
+      "width": 64,
+      "height": 36
     },
     "fb59800b70072952cdb698ce.webp": {
       "name": "fb59800b70072952cdb698ce.webp",
@@ -3378,6 +3645,46 @@
     },
     "72c6bc7d1d70ebf2800548cd.webp": {
       "name": "72c6bc7d1d70ebf2800548cd.webp",
+      "width": 852,
+      "height": 480
+    },
+    "188b51c4c81d888fb3643453.webp": {
+      "name": "188b51c4c81d888fb3643453.webp",
+      "width": 852,
+      "height": 480
+    },
+    "29837abdfdd6fe53cabcd26d.webp": {
+      "name": "29837abdfdd6fe53cabcd26d.webp",
+      "width": 852,
+      "height": 480
+    },
+    "c6e451cbf2aec89a6fc6d7fb.webp": {
+      "name": "c6e451cbf2aec89a6fc6d7fb.webp",
+      "width": 852,
+      "height": 480
+    },
+    "216a646b494b9831add686e7.webp": {
+      "name": "216a646b494b9831add686e7.webp",
+      "width": 852,
+      "height": 480
+    },
+    "aea9b4a4a4c6cfe1d806401f.webp": {
+      "name": "aea9b4a4a4c6cfe1d806401f.webp",
+      "width": 852,
+      "height": 480
+    },
+    "4d73ebb350544df9073fbe5d.webp": {
+      "name": "4d73ebb350544df9073fbe5d.webp",
+      "width": 852,
+      "height": 480
+    },
+    "d527f3d0eb0a45e7954fde6b.webp": {
+      "name": "d527f3d0eb0a45e7954fde6b.webp",
+      "width": 852,
+      "height": 480
+    },
+    "3a3c259e27d18b59c7d08457.webp": {
+      "name": "3a3c259e27d18b59c7d08457.webp",
       "width": 852,
       "height": 480
     }
